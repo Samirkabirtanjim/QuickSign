@@ -1,2 +1,7 @@
+# QuickSign
 
-![App Screenshot]([screenshots/your_screenshot.png](https://github.com/Samirkabirtanjim/QuickSign/blob/work-in-progress/Welcome%20Screen.png))
+This app demonstrates login/signup screens.
+
+![App Screenshot](screenshots/welcomescreen.png)
+
+[View screenshot on GitHub](https://github.com/Samirkabirtanjim/QuickSign/blob/work-in-progress/screenshots/welcomescreen.png)
