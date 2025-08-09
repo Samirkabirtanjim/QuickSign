@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">QuickSign</string>
+    <string name="x">X</string>
+    <string name="welcome">Welcome</string>
+    <string name="lets_get_started">Lets get started</string>
+    <string name="downimage">DownImage</string>
+    <string name="existing_customer_get_started">Existing customer / Get started</string>
+    <string name="sign_in">Sign in</string>
+    <string name="new_customer">New customer?</string>
+    <string name="create_new_account">Create new account</string>
+    <string name="email">Email</string>
+    <string name="please_log_in_into_your_account">Please log in into your account</string>
+    <string name="sign_ins">Sign in</string>
+    <string name="myemail_gmail_com">myemail@gmail.com</string>
+    <string name="forgot_password">Forgot password?</string>
+</resources>
