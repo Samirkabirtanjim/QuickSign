@@ -2,5 +2,6 @@
 
 This app demonstrates login/signup screens.
 
-![App Screenshot](screenshot/welcomescreen.png)
+<img src="screenshot/welcomescreen.png" height="400" />
+
 
