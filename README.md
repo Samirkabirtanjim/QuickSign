@@ -9,6 +9,8 @@ This app demonstrates login/signup screens.
   <img src="screenshot/Sign%20In.png" height="400" />
 
   <img src="screenshot/create.png" height="400" />
+
+  <img src="screenshot/Forgot%20Password.png" height="400" />
 </p>
 
 
